@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1512989489 source:c:\users\user\google drive\semestre.1.1\ip\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1514969873 source:d:\user\belga\desktop\projetof - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
+1515687220 source:d:\user\belga\desktop\projetof2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
